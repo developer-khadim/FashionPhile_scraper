@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Scraper output (uncomment if you don't want to commit scraped data)
+# output_data/
+
+# Large archives
+*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
